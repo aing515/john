@@ -28,7 +28,7 @@ For contributions to John the Ripper jumbo, please use pull requests on
 GitHub:
 
 https://github.com/openwall/john/blob/bleeding-jumbo/CONTRIBUTING.md
-
+😅
 Included below is basic John the Ripper core documentation.
 
 ---
